@@ -48,4 +48,4 @@ Para asegurar compatibilidad, se recomienda crear un entorno virtual.
 
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/telecomx-churn-analysis.git
+   git clone https://github.com/MPBOga/TelecomX_Parte1
