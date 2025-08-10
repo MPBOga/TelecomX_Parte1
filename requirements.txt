@@ -1,0 +1,8 @@
+Este proyecto fue probado en Python 3.8+ y requiere las siguientes librerías:
+
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+- jupyter 
